@@ -73,6 +73,8 @@ Gateway::hostedRequest($req);
 
 And then handle the response received from the gateway.
 
+For further details on using the Xonder Gateway, view our documentation here: https://acrobat.adobe.com/link/track?uri=urn:aaid:scds:US:25f861eb-b404-4e03-b379-1930f77ed503
+
 License
 ----
 MIT
